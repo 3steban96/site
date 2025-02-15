@@ -30,7 +30,7 @@ function App() {
         <meta property="og:whatsapp:url" content="https://site-three-mu-13.vercel.app/"/>
       </article>
 
-      <h1>Vite + React</h1>
+      <h1>Vite + Reafct</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
